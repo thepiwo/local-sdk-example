@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@aeternity/aepp-sdk": "^9.0.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
   }
 }
